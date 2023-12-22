@@ -1,7 +1,7 @@
 ![Typing SVG](https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58913db99fe951ec7ca0eb97f5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633)
 # Hi everyone! 👋
 ### I'm Ivan, Java Backend Dev ☕️
-### Java backend junior at Alfa Bank
+### junior Java backend at Alfa Bank ❤
 ### Student of School 21 Moscow 💚
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Ivan%22;public+String+lastName+%3D+%22Nikolaev%22;public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
 ___
