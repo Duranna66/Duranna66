@@ -1,6 +1,7 @@
 # Hi everyone! 👋
 ### I'm Ivan, Java Backend Dev ☕️
 ### Student of School 21 Moscow 💚 
+### Java back at Alfa bank  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Ivan%22;public+String+lastName+%3D+%22Nikolaev%22;public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
 ___
 <h3 align="center">
