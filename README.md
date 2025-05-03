@@ -24,5 +24,5 @@ My technology stack:</h3>
 <h3 align="center"> My social media: </h3>
 <p align="center">
 <a href="https://github.com/Duranna66"> <img src="https://img.shields.io/github/followers/Duranna66?label=follow&logo=github&style=for-the-badge&labelColor=black"></a>
-<br> <a href="https://vk.com/id745135236"><img src="https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/self.fishkid"></a>
+<br> <a href="https://leetcode.com/u/Duranna/"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"></a>
 <a href="https://t.me/Duranna"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=duranna&color=blue&labelColor=black"></a>
